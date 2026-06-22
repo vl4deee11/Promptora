@@ -1,47 +1,38 @@
 # Promptora
 
-> A lightweight prompt manager that lives inside every major AI chat —
-> no switching tabs, no copy-paste.
+> Personal prompt library for Claude, ChatGPT and more. Save, organize and insert prompts in one click.
 
 ---
+## About
+Your personal prompt library for ChatGPT, Claude and 10+ AI websites.
 
-## ✦ Works Everywhere
+Stop retyping the same prompts or digging through Notion, notes and old chats. Promptora keeps your best prompts right inside your favorite AI tools, so they're always one click away.
 
-Claude · ChatGPT · Gemini · DeepSeek · Grok · Perplexity · Mistral · Poe · HuggingFace · and more
+⚡ Save in seconds
+Highlight any text → click the lightning button → saved instantly.
 
----
+🗂 Organize your prompts
+Create folders and tags like #code, #writing or #work. Find exactly what you need in seconds.
 
-## Features
+🚀 Insert with one click
+Choose a prompt from your library and insert it directly into the chat input.
 
-**⚡ Save in seconds**
-Select any text on the page, click the lightning bolt — it's saved as a prompt instantly.
+📈 Learns what you use
+Your most-used prompts automatically rise to the top.
 
-**🗂 Stay organized**
-Tag your prompts (`writing`, `code`, `work`, `personal`) and filter by tag with one click.
+🌙 Built for every theme
+Works beautifully in dark mode, light mode, or follows your system settings.
 
-**🖱 Insert with one click**
-Hit **Use** → prompt appears directly in the chat input, ready to send.
+🔒 100% private
+Everything stays in your browser. No accounts, no servers, no tracking. Ever.
 
-**📈 Smart sorting**
-Most-used prompts rise to the top automatically.
-
-**🌗 Dark & Light theme**
-Follows your system preference, or switch manually.
-
-**🔒 Private by design**
-Everything stays in your Chrome sync storage. Zero servers. Zero tracking.
-
----
-
-## Who it's for
-
-Developers, writers, marketers, and power users who live in AI chats every day.
+Perfect for developers, writers, researchers, marketers, and anyone who uses AI every day.
 
 ---
 
 ## Installation
 
-1. Install from the [Chrome Web Store](#) *(link)*
+1. Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/promptora/cobadkpobieombknfeelpabpabheepag) *(link)*
 2. Open Claude, ChatGPT, or any supported chat
 3. Click the Promptora icon — your library is ready
 
