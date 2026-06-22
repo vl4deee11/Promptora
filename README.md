@@ -32,7 +32,7 @@ Perfect for developers, writers, researchers, marketers, and anyone who uses AI 
 
 ## Installation
 
-1. Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/promptora/cobadkpobieombknfeelpabpabheepag) *(link)*
+1. Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/promptora/cobadkpobieombknfeelpabpabheepag)
 2. Open Claude, ChatGPT, or any supported chat
 3. Click the Promptora icon — your library is ready
 
